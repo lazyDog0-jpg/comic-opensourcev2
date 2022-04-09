@@ -1,0 +1,11 @@
+body{
+    background-color: #a9a9a9;
+}
+.glorbo{
+    color: purple;
+    text-decoration: none;
+}
+.glorbo:hover {
+    color: yellow;
+    font-size: xx-large;
+  }
