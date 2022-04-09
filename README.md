@@ -1,1 +1,3 @@
 # comic-opensourcev2
+host your webcomic on itch, every part can be modified to better suit your needs. The main html is index, so you will want to run that first. For a new page simply make a new html/htm file by duplicating the index(or 1.html) and chainging the image. Change hrefs of the arrows (<a href = "#.html" to the next page and previous page) Standard image size is 726 x 1032 for the page and 150 x 74 for the arrows. A more indeph video explantion will be made eventully.
+This is open source, anyone can use feel free to modify or change it up. If you would like a more flashly looking template i reccomnd downloading this and adding css and javascript. Maybe addons for the future? cant tell at the moment. twitter.com/baggedlunchen
